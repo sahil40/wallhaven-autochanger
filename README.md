@@ -19,7 +19,7 @@ WallHaven AutoChanger is a lightweight Windows app that automatically fetches an
 
 > 📸 Below are a few screenshots from the app interface:
 
-![App UI](screenshots/ui.jpg)
+![App UI](ui.jpg)
 
 ---
 
