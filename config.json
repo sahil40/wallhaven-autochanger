@@ -8,7 +8,7 @@
     "sorting": "toplist",
     "order": "desc",
     "change_interval": 60,
-    "download_dir": "C://WallHaven Wallpapers",
+    "download_dir": "C:/WallHaven Wallpapers",
     "topRange": "1y",
     "start_minimized": true,
     "launch_on_boot": true,
