@@ -1,0 +1,18 @@
+{
+    "api_key": "4Xd6pEOSB2bbQT2aTB2YabREm4REtctp",
+    "query": "nature",
+    "categories": "111",
+    "purity": "100",
+    "resolutions": "",
+    "ratios": "",
+    "sorting": "toplist",
+    "order": "desc",
+    "change_interval": 60,
+    "download_dir": "C:/Users/sahil/Desktop/Wallpapers",
+    "topRange": "1y",
+    "start_minimized": true,
+    "launch_on_boot": true,
+    "colors": "",
+    "auto_change": true,
+    "interval_minutes": 60
+}
